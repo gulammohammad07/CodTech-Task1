@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/65d664db-9f66-4e7b-9d51-6df47f00afdd)Name: GULAM MOHAMMAD ANSARI
+Name: GULAM MOHAMMAD ANSARI
 Company: CODTECH IT SOLUTIONS
 ID: CT08DS7299
 Domain: JAVA
@@ -23,3 +23,4 @@ Result Display:
 The program outputs the result of the calculation.
 It also includes basic error handling, such as preventing division by zero.
 
+![image](https://github.com/user-attachments/assets/65d664db-9f66-4e7b-9d51-6df47f00afdd)
